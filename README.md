@@ -5,7 +5,10 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight) -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=fornewbie&theme=algolia&show_icons=true)](https://github.com/fornewbie)
+
 [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=fornewbie&hide=scss&theme=algolia&show_icons=true)](https://github.com/fornewbie/fornewbie)
 <!---
 fornewbie/fornewbie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
